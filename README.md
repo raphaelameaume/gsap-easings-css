@@ -1,2 +1,2 @@
 # gsap-easings-css
-Match GSAP easings with CSS cubic-bezier timing functions
+This is an attempt to bring GSAP easings functions to CSS with cubic bezier timing functions. This is a work in progress so you might notice slight differences.
